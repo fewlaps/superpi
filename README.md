@@ -19,7 +19,7 @@ docker run fewlaps/superpi -t numberOfThreads -i numberOfIterations
 
 Running the default test on different machines took...
 - Windows desktop, Mid 2013, 3.5 GHz i7: **33,586 ms**
-- iMac 21,5", Late 2013, 3.1GHz i7: **36.852 ms**
+- iMac 21,5", Late 2013, 3.1 GHz i7: **36.852 ms**
 - MacBook Pro 13", Early 2015, 3.1 GHz i7: **64,973 ms**
 - MacBook Pro 13", Early 2015, 2.9 GHz i5: **67,004 ms**
 - MacBook Pro 13", Late 2013, 2.4 Ghz i5 **85.998 ms**
