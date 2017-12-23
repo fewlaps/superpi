@@ -27,3 +27,5 @@ MacBook Pro 13"|Early 2015|3.1 GHz i7|**64,973 ms**
 MacBook Pro 13"|Early 2015|2.9 GHz i5|**67,004 ms**
 MacBook Pro 13"|Late 2013|2.4 Ghz i5|**85.998 ms**
 MacBook Air 13"|Mid 2012|1.8 GHz i5|**93,775 ms**
+
+![result](result.png)
