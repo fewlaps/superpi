@@ -22,6 +22,7 @@ Running the default test on different machines took...
 Computer|Year|CPU|Time
 ------- | -- | -- | -------
 Windows desktop|Mid 2013|3.5 GHz i7|**33,586 ms**
+Windows desktop|Late 2020|3.7 GHz AMD 5900x |**10,522 ms**
 iMac 21,5"|Late 2013|3.1 GHz i7|**36.852 ms**
 MacBook Pro 13"|Early 2015|3.1 GHz i7|**64,973 ms**
 MacBook Pro 13"|Early 2015|2.9 GHz i5|**67,004 ms**
